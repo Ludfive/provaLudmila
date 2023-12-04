@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/provaLudmila/static/css/main.7a963e1f.css",
+    "main.js": "/provaLudmila/static/js/main.04e5a5b3.js",
+    "index.html": "/provaLudmila/index.html",
+    "main.7a963e1f.css.map": "/provaLudmila/static/css/main.7a963e1f.css.map",
+    "main.04e5a5b3.js.map": "/provaLudmila/static/js/main.04e5a5b3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a963e1f.css",
+    "static/js/main.04e5a5b3.js"
+  ]
+}
